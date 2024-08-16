@@ -157,6 +157,13 @@ body {
     position: relative;
 }
 
+@media screen and (max-width: 992px) {
+    .section2 {
+        background-position: center center;
+
+    }
+}
+
 .bg-overlay2 {
     background-color: #4d0808;
     opacity: .3;
